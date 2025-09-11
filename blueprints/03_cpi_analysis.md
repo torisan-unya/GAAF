@@ -1,6 +1,3 @@
-承知いたしました。以下に`03_cpi_analysis.md`の全内容をMarkdown形式で再提示します。
-
-```markdown
 # Blueprint 03: US CPI Flash Forecast Analysis
 
 - **Author**: Torisan Unya
