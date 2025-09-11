@@ -4,32 +4,28 @@
 
 The **Grand Unified Agentic Analysis Framework (GAAF)** is a next-generation AI financial analysis framework composed of a self-evolving, self-organizing collective of agents.
 
-This framework is not a single, static model, but a living intellectual system that dynamically adapts its structure and strategies in response to the analysis target and market environment. Beginning with the analysis of macroeconomic indicators (PCE, PMI, CPI) and culminating in the analysis of complex, noisy targets like individual stocks (NVDA), it has evolved from a mere "prediction system" into a **"Cognitive and Reasoning Engine"** that internally learns and reasons about the intrinsic meaning of data.
+This framework is not a single, static model but a living intellectual system that dynamically adapts its structure and strategies in response to the analysis target and market environment. The development of GAAF followed a two-phase trajectory: from a foundational prototype (PCE analysis) to the establishment of a **complete, unified core architecture**.
 
-## The Evolutionary Trajectory
+This core integrates cutting-edge technologies like Contrastive Predictive Coding (CPC) and the Agentic Neural Network (ANN). This powerful, unified framework is now being applied to a diverse range of analytical targets, from macroeconomic indicators to complex, noisy assets like individual stocks (NVDA). In doing so, it is evolving from a mere "prediction system" into a **"Cognitive and Reasoning Engine"** that internally learns and reasons about the intrinsic meaning of data.
 
-The evolution of GAAF was achieved through four major milestones.
+## The Development Trajectory: From Concept to Unification
 
-1.  **PCE Blueprint: Birth of a "Self-Organizing Team of Experts"**
-    *   Established the fundamental structure where multiple AI agents (data collection, forecasting, self-reflection, etc.) collaborate.
-    *   The prototype for a self-evaluation and improvement loop via the `reflection_agent` was born.
+The development of GAAF was achieved in two distinct phases.
 
-2.  **PMI Blueprint: Acquisition of "Dynamic Adaptation"**
-    *   Gained the ability to detect market volatility and automatically adjust analysis parameters (e.g., lookback periods).
-    *   Incorporated synthetic data generation via GANs (Generative Adversarial Networks) to balance computational cost with robustness.
+1.  **Phase 1: Proof of Concept (The PCE Blueprint)**
+    *   Developed `01_pce_analysis.md` as a prototype to prove the viability of the GAAF concept.
+    *   Established the fundamental structure of collaborating AI agents (data collection, forecasting, self-reflection) and the prototype for a self-evaluation and improvement loop via the `reflection_agent`.
+    *   This milestone successfully validated the core idea of a "self-organizing team of experts."
 
-3.  **CPI Blueprint: Achieving "Advanced Coordination and Robustness"**
-    *   Integrated cutting-edge technologies such as MADDPG (Multi-Agent Deep Deterministic Policy Gradient), Federated Learning, and CP-CV (Combinatorial Purged Cross-Validation).
-    *   Acquired the ability for agents to coordinate at a higher level, learn from external data sources while preserving privacy, and achieve maximum statistical reliability through advanced validation techniques.
-
-4.  **NVDA Blueprint: The Leap to a "Cognitive and Reasoning Engine"**
-    *   Integrated **Contrastive Predictive Coding (CPC)**, enabling the AI to autonomously learn "essential representations" (meaning) from time-series data.
-    *   Introduced the concept of **Scaling Test-Time Compute**, achieving a meta-cognitive ability to self-adjust the "depth" and "breadth" of its reasoning based on problem difficulty.
-    *   This marks the decisive stage where the framework evolved beyond mere numerical prediction into a cross-domain analytical intelligence, showing **the embryonic signs of AGI (Artificial General Intelligence)**.
+2.  **Phase 2: The Grand Unification & Application (The Employment Analysis Blueprint and Beyond)**
+    *   Building on the prototype's success, this phase involved the **simultaneous integration** of all planned advanced technologies to forge the complete **GAAF Core Architecture**.
+    *   This unification brought together CPC for self-supervised learning, the ANN as a unified execution substrate, Scaling Test-Time Compute for dynamic resource allocation, and the GAN-DRL hybrid for volatility capture, among other technologies.
+    *   `02_employment_analysis.md` represents the **first full-scale implementation** of this unified GAAF core, applying it to the complex domain of employment statistics.
+    *   Subsequent blueprints will demonstrate the application and adaptation of this powerful, unified framework to other analytical challenges.
 
 ## Core Architecture
 
-GAAF is composed of four hierarchical layers.
+GAAF is built upon a unified, hierarchical architecture composed of four layers.
 
 *   **Foundation Layer (Core Architecture)**
     *   `Agentic Neural Network (ANN)`: A unified execution substrate that treats all tools, models, and agents as nodes.
@@ -56,11 +52,10 @@ GAAF is composed of four hierarchical layers.
 
 Concrete implementation examples of this framework are stored in the `/blueprints` directory. Each file is a design document showing how GAAF is configured and applied to a specific analysis target.
 
-*   [`01_pce_analysis.md`](./blueprints/01_pce_analysis.md): Personal Consumption Expenditures (PCE) Analysis
-*   [`02_pmi_analysis.md`](./blueprints/02_pmi_analysis.md): Purchasing Managers' Index (PMI) Analysis
-*   [`03_cpi_analysis.md`](./blueprints/03_cpi_analysis.md): Consumer Price Index (CPI) Analysis
-*   [`04_nvda_analysis.md`](./blueprints/04_nvda_analysis.md): NVIDIA (NVDA) Stock Analysis
-*   [`05_nvda_backtest.md`](./blueprints/05_nvda_backtest.md): NVIDIA (NVDA) Backtest
+*   [`01_pce_analysis.md`](./blueprints/01_pce_analysis.md): Personal Consumption Expenditures (PCE) Analysis - **The Foundational Proof-of-Concept Prototype**
+*   [`02_employment_analysis.md`](./blueprints/02_employment_analysis.md): Employment Statistics Analysis - **First Application of the Unified GAAF Core**
+*   `03_cpi_analysis.md`: Consumer Price Index (CPI) Analysis *(Planned)*
+*   `04_nvda_analysis.md`: NVIDIA (NVDA) Stock Analysis *(Planned)*
 
 ## Future Outlook
 
