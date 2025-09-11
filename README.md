@@ -6,7 +6,7 @@ The **Grand Unified Agentic Analysis Framework (GAAF)** is a next-generation AI 
 
 This framework is not a single, static model but a living intellectual system that dynamically adapts its structure and strategies in response to the analysis target and market environment. The development of GAAF followed a two-phase trajectory: from a foundational prototype (PCE analysis) to the establishment of a **complete, unified core architecture**.
 
-This core integrates cutting-edge technologies like Contrastive Predictive Coding (CPC) and the Agentic Neural Network (ANN). This powerful, unified framework is now being applied to a diverse range of analytical targets, from macroeconomic indicators to complex, noisy assets like individual stocks (NVDA). In doing so, it is evolving from a mere "prediction system" into a **"Cognitive and Reasoning Engine"** that internally learns and reasons about the intrinsic meaning of data.
+This core integrates cutting-edge technologies like Contrastive Predictive Coding (CPC) and the Agentic Neural Network (ANN). This powerful, unified framework has been successfully applied to a diverse range of analytical targets, from key macroeconomic indicators (PCE, Employment, CPI) to complex, high-volatility assets like individual stocks (NVDA). In doing so, it is evolving from a mere "prediction system" into a **"Cognitive and Reasoning Engine"** that internally learns and reasons about the intrinsic meaning of data.
 
 ## The Development Trajectory: From Concept to Unification
 
@@ -21,7 +21,7 @@ The development of GAAF was achieved in two distinct phases.
     *   Building on the prototype's success, this phase involved the **simultaneous integration** of all planned advanced technologies to forge the complete **GAAF Core Architecture**.
     *   This unification brought together CPC for self-supervised learning, the ANN as a unified execution substrate, Scaling Test-Time Compute for dynamic resource allocation, and the GAN-DRL hybrid for volatility capture, among other technologies.
     *   `02_employment_analysis.md` represents the **first full-scale implementation** of this unified GAAF core, applying it to the complex domain of employment statistics.
-    *   Subsequent blueprints will demonstrate the application and adaptation of this powerful, unified framework to other analytical challenges.
+    *   Subsequent blueprints, such as the CPI and NVDA analyses, demonstrate the successful application and adaptation of this powerful, unified framework to new and distinct analytical challenges, proving its versatility.
 
 ## Core Architecture
 
@@ -54,8 +54,8 @@ Concrete implementation examples of this framework are stored in the `/blueprint
 
 *   [`01_pce_analysis.md`](./blueprints/01_pce_analysis.md): Personal Consumption Expenditures (PCE) Analysis - **The Foundational Proof-of-Concept Prototype**
 *   [`02_employment_analysis.md`](./blueprints/02_employment_analysis.md): Employment Statistics Analysis - **First Application of the Unified GAAF Core**
-*   `03_cpi_analysis.md`: Consumer Price Index (CPI) Analysis *(Planned)*
-*   `04_nvda_analysis.md`: NVIDIA (NVDA) Stock Analysis *(Planned)*
+*   [`03_cpi_analysis.md`](./blueprints/03_cpi_analysis.md): Consumer Price Index (CPI) Analysis - **Application to a Core Inflation Indicator**
+*   [`04_nvda_analysis.md`](./blueprints/04_nvda_analysis.md): NVIDIA (NVDA) Stock Analysis - **Demonstrating Adaptability for High-Volatility Individual Equities**
 
 ## Future Outlook
 
