@@ -72,3 +72,6 @@ This project was created and is maintained by **Torisan Unya** ([@torisan_unya](
 This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
