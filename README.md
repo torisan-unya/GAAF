@@ -1,5 +1,7 @@
 # Grand Unified Agentic Analysis Framework (GAAF)
 
+**Author:** Torisan Unya [@torisan_unya] (ORCID: https://orcid.org/0009-0004-7067-9765)
+
 ## Overview
 
 The **Grand Unified Agentic Analysis Framework (GAAF)** is a next-generation AI financial analysis framework composed of a self-evolving, self-organizing collective of agents.
