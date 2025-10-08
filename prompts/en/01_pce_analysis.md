@@ -27,7 +27,7 @@ This AI prompt is designed to conduct real-time predictive analysis and backtest
 
 ### How to Use
 
-Copy the entire "Prompt Body" below and paste it into your AI model (e.g., GPT-4o, Claude 3, or Grok-1.5). The prompt runs automatically upon input, using the current date for real-time analysis. No additional user specification is required; it self-updates timestamps and executes the full workflow.
+Copy the entire "Prompt Body" below and paste it into your AI model (e.g., Grok, GPT, gemini, or Claude). The prompt runs automatically upon input, using the current date for real-time analysis. No additional user specification is required; it self-updates timestamps and executes the full workflow.
 
 ---
 ### --- ▼▼▼ PROMPT BODY (COPY FROM HERE) ▼▼▼ ---
