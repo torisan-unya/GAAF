@@ -25,7 +25,7 @@ The development of GAAF was achieved in two distinct phases, moving from concept
     *   Building on the prototype's success, this phase involved the **simultaneous integration** of all planned advanced technologies to forge the complete **GAAF Core Architecture**.
     *   This unification brought together CPC for self-supervised learning, the ANN as a unified execution substrate, Scaling Test-Time Compute for dynamic resource allocation, and the GAN-DRL hybrid for volatility capture, among other technologies.
     *   The `Employment Analysis Prompt` represents the **first full-scale implementation** of this unified GAAF core.
-    *   Subsequent prompts, such as the CPI and NVDA/NVDU portfolio analyses, demonstrate the successful application and adaptation of this powerful, unified framework to new and distinct analytical challenges, proving its versatility and practical power.
+    *   Subsequent prompts, such as the CPI and NVDA analyses, demonstrate the successful application and adaptation of this powerful, unified framework to new and distinct analytical challenges, proving its versatility and practical power.
 
 ## Core Architecture
 
@@ -56,10 +56,10 @@ GAAF is built upon a unified, hierarchical architecture composed of four layers.
 
 Concrete implementations of this framework are stored in the `/prompts/en` directory. Each file is a ready-to-use prompt designed to configure and apply GAAF to a specific analysis target.
 
-*   [`01_pce_analysis_prompt.md`](./prompts/en/01_pce_analysis_prompt.md): Personal Consumption Expenditures (PCE) Analysis - **The Foundational Prototype Prompt.**
-*   [`02_employment_analysis_prompt.md`](./prompts/en/02_employment_analysis_prompt.md): Employment Statistics Analysis - **First Full-Scale Implementation of the Unified GAAF Core.**
-*   [`03_cpi_analysis_prompt.md`](./prompts/en/03_cpi_analysis_prompt.md): Consumer Price Index (CPI) Analysis - **Application to a Core Inflation Indicator.**
-*   [`04_nvda-nvdu_portfolio_analysis_prompt.md`](./prompts/en/04_nvda-nvdu_portfolio_analysis_prompt.md): NVIDIA (NVDA/NVDU) Portfolio Analysis - **An Advanced, Mission-Specific Prompt for High-Volatility Portfolio Management.**
+*   [`01_pce_analysis.md`](./prompts/en/01_pce_analysis.md): Personal Consumption Expenditures (PCE) Analysis - **The Foundational Prototype Prompt.**
+*   [`02_employment_analysis.md`](./prompts/en/02_employment_analysis.md): Employment Statistics Analysis - **First Full-Scale Implementation of the Unified GAAF Core.**
+*   [`03_cpi_analysis.md`](./prompts/en/03_cpi_analysis.md): Consumer Price Index (CPI) Analysis - **Application to a Core Inflation Indicator.**
+*   [`04_nvda_analysis.md`](./prompts/en/04_nvda_analysis.md): NVIDIA (NVDA) Stock Analysis - **Demonstrating Adaptability for High-Volatility Individual Equities.**
 
 ## How to Use
 
