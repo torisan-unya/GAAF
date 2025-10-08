@@ -6,30 +6,30 @@ This repository is part of the [Agora-Supercluster](https://github.com/torisan-u
 
 ## Overview
 
-The **Grand Unified Agentic Analysis Framework (GAAF)** is a next-generation AI financial analysis framework composed of a self-evolving, self-organizing collective of agents.
+The **Grand Unified Agentic Analysis Framework (GAAF)** provides a suite of ready-to-use, next-generation AI prompts that instantiate a self-evolving, self-organizing collective of agents for financial analysis.
 
-This framework is not a single, static model but a living intellectual system that dynamically adapts its structure and strategies in response to the analysis target and market environment. The development of GAAF followed a two-phase trajectory: from a foundational prototype (PCE analysis) to the establishment of a **complete, unified core architecture**.
+This framework is not a static model but a living intellectual system that dynamically adapts its structure and strategies in response to the analysis target and market environment. The development of GAAF followed a two-phase trajectory: from a foundational prototype to the establishment of a **complete, unified core architecture**.
 
 This core integrates cutting-edge technologies like Contrastive Predictive Coding (CPC) and the Agentic Neural Network (ANN). This powerful, unified framework has been successfully applied to a diverse range of analytical targets, from key macroeconomic indicators (PCE, Employment, CPI) to complex, high-volatility assets like individual stocks (NVDA). In doing so, it is evolving from a mere "prediction system" into a **"Cognitive and Reasoning Engine"** that internally learns and reasons about the intrinsic meaning of data.
 
-## The Development Trajectory: From Concept to Unification
+## From Blueprint to Implementation: The Development Trajectory
 
-The development of GAAF was achieved in two distinct phases.
+The development of GAAF was achieved in two distinct phases, moving from conceptual design to full-scale implementation.
 
-1.  **Phase 1: Proof of Concept (The PCE Blueprint)**
-    *   Developed `01_pce_analysis.md` as a prototype to prove the viability of the GAAF concept.
-    *   Established the fundamental structure of collaborating AI agents (data collection, forecasting, self-reflection) and the prototype for a self-evaluation and improvement loop via the `reflection_agent`.
-    *   This milestone successfully validated the core idea of a "self-organizing team of experts."
+1.  **Phase 1: Proof of Concept (The Prototype Prompt)**
+    *   Developed the `PCE Analysis Prompt` as a prototype to prove the viability of the GAAF concept.
+    *   Established the fundamental structure of collaborating AI agents (data collection, forecasting, self-reflection) and the prototype for a self-evaluation and improvement loop.
+    *   This milestone successfully validated the core idea of a "self-organizing team of experts" in a practical, executable prompt.
 
-2.  **Phase 2: The Grand Unification & Application (The Employment Analysis Blueprint and Beyond)**
+2.  **Phase 2: The Grand Unification & Full-Scale Implementation**
     *   Building on the prototype's success, this phase involved the **simultaneous integration** of all planned advanced technologies to forge the complete **GAAF Core Architecture**.
     *   This unification brought together CPC for self-supervised learning, the ANN as a unified execution substrate, Scaling Test-Time Compute for dynamic resource allocation, and the GAN-DRL hybrid for volatility capture, among other technologies.
-    *   `02_employment_analysis.md` represents the **first full-scale implementation** of this unified GAAF core, applying it to the complex domain of employment statistics.
-    *   Subsequent blueprints, such as the CPI and NVDA analyses, demonstrate the successful application and adaptation of this powerful, unified framework to new and distinct analytical challenges, proving its versatility.
+    *   The `Employment Analysis Prompt` represents the **first full-scale implementation** of this unified GAAF core.
+    *   Subsequent prompts, such as the CPI and NVDA/NVDU portfolio analyses, demonstrate the successful application and adaptation of this powerful, unified framework to new and distinct analytical challenges, proving its versatility and practical power.
 
 ## Core Architecture
 
-GAAF is built upon a unified, hierarchical architecture composed of four layers.
+GAAF is built upon a unified, hierarchical architecture composed of four layers. This architecture is not just a theory; it is the underlying logic embedded within each prompt.
 
 *   **Foundation Layer (Core Architecture)**
     *   `Agentic Neural Network (ANN)`: A unified execution substrate that treats all tools, models, and agents as nodes.
@@ -52,14 +52,22 @@ GAAF is built upon a unified, hierarchical architecture composed of four layers.
     *   `Dynamic Lookback Periods`: Automatic adjustment of analysis windows based on volatility.
     *   `Domain-Specific Feature Integration`: Automated selection and integration of features specific to the analysis target.
 
-## Blueprints
+## Prompts
 
-Concrete implementation examples of this framework are stored in the `/blueprints` directory. Each file is a design document showing how GAAF is configured and applied to a specific analysis target.
+Concrete implementations of this framework are stored in the `/prompts/en` directory. Each file is a ready-to-use prompt designed to configure and apply GAAF to a specific analysis target.
 
-*   [`01_pce_analysis.md`](./blueprints/01_pce_analysis.md): Personal Consumption Expenditures (PCE) Analysis - **The Foundational Proof-of-Concept Prototype**
-*   [`02_employment_analysis.md`](./blueprints/02_employment_analysis.md): Employment Statistics Analysis - **First Application of the Unified GAAF Core**
-*   [`03_cpi_analysis.md`](./blueprints/03_cpi_analysis.md): Consumer Price Index (CPI) Analysis - **Application to a Core Inflation Indicator**
-*   [`04_nvda_analysis.md`](./blueprints/04_nvda_analysis.md): NVIDIA (NVDA) Stock Analysis - **Demonstrating Adaptability for High-Volatility Individual Equities**
+*   [`01_pce_analysis_prompt.md`](./prompts/en/01_pce_analysis_prompt.md): Personal Consumption Expenditures (PCE) Analysis - **The Foundational Prototype Prompt.**
+*   [`02_employment_analysis_prompt.md`](./prompts/en/02_employment_analysis_prompt.md): Employment Statistics Analysis - **First Full-Scale Implementation of the Unified GAAF Core.**
+*   [`03_cpi_analysis_prompt.md`](./prompts/en/03_cpi_analysis_prompt.md): Consumer Price Index (CPI) Analysis - **Application to a Core Inflation Indicator.**
+*   [`04_nvda-nvdu_portfolio_analysis_prompt.md`](./prompts/en/04_nvda-nvdu_portfolio_analysis_prompt.md): NVIDIA (NVDA/NVDU) Portfolio Analysis - **An Advanced, Mission-Specific Prompt for High-Volatility Portfolio Management.**
+
+## How to Use
+
+1.  Navigate to the `/prompts/en` directory.
+2.  Select the prompt that matches your analytical needs.
+3.  Copy the entire content of the Markdown file.
+4.  Paste it into a chat session with a state-of-the-art Large Language Model (e.g., GPT-4o, Claude 3 Opus).
+5.  Let the agentic team begin its work. For best results, use models with advanced reasoning and tool-use capabilities (e.g., code interpreter, web browsing).
 
 ## Future Outlook
 
@@ -73,9 +81,11 @@ This project was created and is maintained by **Torisan Unya** ([@torisan_unya](
 
 ## License
 
-This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+This project is dual-licensed to encourage both open collaboration and practical use.
 
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+*   **Conceptual Framework, Prompts, and Accompanying Documentation:** Licensed under **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**.
+    *   This applies to all non-code assets. If you adapt these materials (e.g., create a new prompt based on this method) and share them publicly, you must do so under the same CC BY-SA 4.0 license. This ensures that the ecosystem of shared knowledge continues to grow.
+*   **Source Code (e.g., helper scripts):** Licensed under the **MIT License**.
+    *   This applies to any scripts or helper code. It grants you the freedom to integrate them into your own tools with minimal restrictions.
 
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+**In simple terms:** You are free to use and modify everything for your internal or private projects. However, when you publicly share derivatives of our prompts and methods, we ask that you honor the CC BY-SA 4.0 license to foster a collaborative community.
