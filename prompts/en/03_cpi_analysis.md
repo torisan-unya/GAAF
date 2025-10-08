@@ -1,4 +1,4 @@
-# CPI Analysis Prompt V2.0
+# CPI Analysis Prompt V1.0
 
 **Author:** Torisan Unya (ORCID: https://orcid.org/0009-0004-7067-9765)  
 **License:**  
