@@ -1,6 +1,7 @@
 # PCE Analysis Prompt V1.0
 
-**Author:** Torisan Unya [@torisan_unya]  
+**Author:** Unya Torisan (ORCID: https://orcid.org/0009-0004-7067-9765)  
+
 **License:**  
 This project is dual-licensed to encourage both open collaboration and practical use.
 
