@@ -1,33 +1,38 @@
 # PCE Analysis Prompt V1.0
 
 **Author:** Unya Torisan (ORCID: https://orcid.org/0009-0004-7067-9765)  
-
 **License:**  
 This project is dual-licensed to encourage both open collaboration and practical use.
 
-* Conceptual Framework, Prompts, and Documentation (Paper): Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
-
-  * This applies to all non-code assets. If you adapt these materials (e.g., create a new prompt based on this method) and share them publicly, you must do so under the same CC BY-SA 4.0 license. This ensures that the ecosystem of shared knowledge continues to grow.
-
-* Source Code (Code): Licensed under the MIT License.
-
-  * This applies to any scripts or helper code. It grants you the freedom to integrate them into your own tools with minimal restrictions.
+* **Conceptual Framework, Prompts, and Accompanying Documentation:** Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+    * This applies to all non-code assets. If you adapt these materials (e.g., create a new prompt based on this method) and share them publicly, you must do so under the same CC BY-SA 4.0 license. This ensures that the ecosystem of shared knowledge continues to grow.
+* **Source Code (e.g., helper scripts):** Licensed under the MIT License.
+    * This applies to any scripts or helper code. It grants you the freedom to integrate them into your own tools with minimal restrictions.
 
 In simple terms: You are free to use and modify everything for your internal or private projects. However, when you publicly share derivatives of our prompts and methods, we ask that you honor the CC BY-SA 4.0 license to foster a collaborative community.
 
-This AI prompt is designed to conduct real-time predictive analysis and backtesting of Personal Consumption Expenditures (PCE) and its related inflation metrics (Core PCE, Trimmed Mean PCE, Median PCE). It implements the Grand Unified Agentic Analysis Framework (GAAF) as a concrete operational tool, using agentic neural networks (CPC-ANN) for dynamic analysis, error minimization, and self-improvement.
+This AI prompt empowers a large language model to perform a sophisticated, real-time analysis of key inflation indicators, specifically the Personal Consumption Expenditures (PCE) metrics.
+
+At its core, this prompt implements a novel framework called the Grand Unified Agentic Analysis Framework (GAAF). Instead of treating the AI as a single entity, GAAF transforms it into a dynamic team of specialized "agents" that collaborate to solve the problem. This approach, which we call a Collective Predictive Coding-based Agentic Neural Network (CPC-ANN), allows the AI to dynamically analyze data, minimize its own errors, and continuously improve its performance, much like a human research team would.
 
 ### Features of This Prompt
 
-*   **Real-Time Prediction:** Analyzes current PCE metrics with integrated tools for data retrieval, sentiment analysis, and volatility modeling.
-*   **Backtesting:** Evaluates strategies over historical data (2005 onward) with performance metrics like MAE, Sharpe, and r^2.
-*   **Agentic Enhancements:** Uses CPC-ANN for multi-agent collaboration, dynamic team formation, and collective error reduction via forward/backward passes.
-*   **Integrated Tools:** Leverages code execution, web search, and browsing for accurate, up-to-date insights, with bias checks and self-reflection.
-*   **Output Structure:** Provides structured tables, summaries, and visualizations for clarity.
+*   **Real-Time Prediction:** Analyzes current PCE metrics with integrated tools for data retrieval, sentiment analysis, and volatility modeling. **This allows the AI to react to breaking news and market shifts, providing up-to-the-minute insights.**
+*   **Backtesting:** Evaluates strategies over historical data (2005 onward) with performance metrics like MAE, Sharpe, and r^2. **This rigorously validates the model's effectiveness and builds confidence in its predictive power.**
+*   **Agentic Enhancements:** Uses CPC-ANN for multi-agent collaboration, dynamic team formation, and collective error reduction via forward/backward passes. **This creates a robust, self-correcting system where AI agents challenge each other's findings to reduce bias and arrive at a more accurate conclusion.**
+*   **Integrated Tools:** Leverages code execution, web search, and browsing for accurate, up-to-date insights, with bias checks and self-reflection. **The AI isn't just guessing; it's actively researching and calculating like a human analyst.**
+*   **Output Structure:** Provides structured tables, summaries, and visualizations for clarity. **Complex findings are presented in an organized, digestible format, making them easy to interpret and act upon.**
 
 ### How to Use
 
-Copy the entire "Prompt Body" below and paste it into your AI model (e.g., Grok, GPT, gemini, or Claude). The prompt runs automatically upon input, using the current date for real-time analysis. No additional user specification is required; it self-updates timestamps and executes the full workflow.
+1. Copy the entire text within the "PROMPT BODY" section below.
+2. Paste it into a capable AI model.
+
+The prompt is designed to run automatically. It fetches the current date and executes the entire analysis workflow without requiring any further input from you.
+
+**A Note on AI Models:** This is a highly advanced prompt that pushes the limits of current AI capabilities. It relies heavily on features like complex tool usage (code execution, web search), long-context reasoning, and the ability to follow intricate instructions.
+
+**For best results, we recommend using state-of-the-art models known for these strengths (e.g., the latest versions of GPT-4, Claude 3, Gemini Advanced, or Grok).** Performance, accuracy, and even the ability to complete the full task will vary significantly between different models or versions.
 
 ---
 ### --- ▼▼▼ PROMPT BODY (COPY FROM HERE) ▼▼▼ ---
