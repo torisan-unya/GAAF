@@ -32,7 +32,7 @@ The prompt is designed to run automatically. It fetches the current date and exe
 
 **A Note on AI Models:** This is a highly advanced prompt that pushes the limits of current AI capabilities. It relies heavily on features like complex tool usage (code execution, web search), long-context reasoning, and the ability to follow intricate instructions.
 
-**For best results, we recommend using state-of-the-art models known for these strengths (e.g., the latest versions of GPT-4, Claude 3, Gemini Advanced, or Grok).** Performance, accuracy, and even the ability to complete the full task will vary significantly between different models or versions.
+**For best results, we recommend using state-of-the-art models known for these strengths (e.g., the latest versions of GPT, Claude, Gemini Advanced, or Grok).** Performance, accuracy, and even the ability to complete the full task will vary significantly between different models or versions.
 
 ---
 ### --- ▼▼▼ PROMPT BODY (COPY FROM HERE) ▼▼▼ ---
