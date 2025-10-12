@@ -1,8 +1,9 @@
 # Grand Unified Agentic Analysis Framework (GAAF)
 
-**Author:** Torisan Unya [@torisan_unya] (ORCID: https://orcid.org/0009-0004-7067-9765)
-
 This repository is part of the [Agora-Supercluster](https://github.com/torisan-unya/Agora-Supercluster), the central hub for repositories advancing Human-AI Collaboration (HAC).
+
+Authored by Torisan Unya (Independent Researcher, ORCID: [0009-0004-7067-9765](https://orcid.org/0009-0004-7067-9765)). 
+Licensed under **MIT + Patent License Addendum** (see [License](#license)).
 
 ## Overview
 
